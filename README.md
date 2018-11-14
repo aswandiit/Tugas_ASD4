@@ -14,6 +14,6 @@ alamat URL : https://github.com/aswandiit/Tugas_ASD4/blob/master/QuickSort.java
 7. Kelas Algoritma Linear Search dengan menggunakan perintah Searching
 alamat URL : https://github.com/aswandiit/Tugas_ASD4/blob/master/LinearSearch.java
 8. Kelas Algoritma Binary Search dengan menggunakan perintah Searching
-alamat URL :
+alamat URL : https://github.com/aswandiit/Tugas_ASD4/blob/master/BinarySearch.java
 9. Kelas Algoritma Hash Table dengan menggunakan perintah Searching
-alamat URL : 
+alamat URL : https://github.com/aswandiit/Tugas_ASD4/blob/master/HashTable.java
