@@ -6,7 +6,7 @@ alamat URL : https://github.com/aswandiit/Tugas_ASD4/blob/master/InsertionSort.j
 3. Kelas Algoritma Selection Sort dengan menggunakan perintah Sorting
 alamat URL : https://github.com/aswandiit/Tugas_ASD4/blob/master/SelectionSort.java
 4. Kelas Algoritma Merge Sort dengan menggunakan perintah Sorting
-alamat URL : 
+alamat URL : https://github.com/aswandiit/Tugas_ASD4/blob/master/MergeSort.java
 5. Kelas Algoritma Shell Sort dengan menggunakan perintah Sorting
 alamat URL : https://github.com/aswandiit/Tugas_ASD4/blob/master/ShellSort.java
 6. Kelas Algoritma Quick Sort dengan menggunakan perintah Sorting
